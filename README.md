@@ -2,6 +2,7 @@
 A Vue plugin which make Vue component invocated by API.
 
 [中文文档](https://github.com/cube-ui/vue-create-api/blob/master/README_zh-CN.md)
+[源码解析](https://juejin.im/post/5d4cb305e51d45620064bb0d)
 
 ## Installing
 
